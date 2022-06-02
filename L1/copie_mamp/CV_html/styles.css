@@ -1,0 +1,33 @@
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-end{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    width: 200px;
+}
+
+.container{
+    display: flex;
+}
+
+header{
+    padding: 15px;
+    background-image: url("images/header-small.jpg"); ;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.names{
+    color: aliceblue;
+}
+
+.title-back{
+    background-color: bisque;
+    text-decoration-line: underline;
+    padding-left: 10px;
+}

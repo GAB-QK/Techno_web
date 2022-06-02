@@ -1,0 +1,48 @@
+header {
+    padding: 15px;
+    background-image: url("images/header-small.jpg");
+    ;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: rgb(186, 197, 127);
+    background-size: 100%;
+    background-position: center;
+}
+
+.names {
+    font-size: 32px;
+    display: inline;
+    color: rgb(168, 14, 107);
+}
+
+.big {
+    display: inline;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+p {
+    display: inline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2 {
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    display: flex;
+    align-items: flex-end;
+}
+
+

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
+
+#eye{
+    position:absolute;
+    
+    transform: translate(0%,0%);
+    height: 60px;
+    width:60px;
+    background:rgb(237, 207, 37);
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 30px 1px #222236ad;
+}
+
+#eyeBall{
+    position: absolute;
+    height: 15px;
+    width:15px;
+    transform: translate(0%,0%);
+    background:rgb(66, 10, 80);
+    border-radius: 50%;
+    transition:0;
+
+}
